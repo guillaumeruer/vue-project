@@ -27,4 +27,4 @@ coverage
 *.sln
 *.sw?
 
-/src/views/main.js
+src/views/main.js
